@@ -3,6 +3,6 @@
   "private": true,
   "dependencies": {
     "polymer": "Polymer/polymer#master",
-    "d3": "*"
+    "d3": "TangereJs/d3#master"
   }
 }
